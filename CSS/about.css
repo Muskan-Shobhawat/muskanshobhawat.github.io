@@ -6,11 +6,11 @@ body {
 
 a{
     text-decoration: none;
-    color: rgba(63, 114, 175, 1);
+    color: #ffffff;;
 }
 
 .items a:hover {
-    color: rgba(17, 45, 78, 1);
+    color: #fca311;
 }
 
 a:visited{
@@ -23,13 +23,13 @@ a:active{
 
 #dubai a{
     text-decoration: none;
-    color: rgba(0,0,0,1);
+    color: #ffffff;
 }
 
 #container {
     width: 100vw;
     height: 100vh;
-    background: rgba(215, 229, 255, 1);
+    background: #14213d;
 }
 
 #top {
@@ -47,13 +47,13 @@ a:active{
     font-size: 22px;
     width: 10vw;
     /* padding: 15vw,0vh; */
-    color: rgba(63, 114, 175, 1);
+    /* color: rgba(63, 114, 175, 1); */
     /* border: 2px solid red; */
 }
 
 
 .items:hover {
-    color: rgba(17, 45, 78, 1);
+    /* color: rgba(17, 45, 78, 1);s */
 }
 #mid{
     /* border: 2px solid rgb(255, 204, 0); */
@@ -102,11 +102,11 @@ a:active{
     width: 22vw;
     margin-left: 1vw;
     /* border: 2px solid rgb(173, 108, 119); */
-    color: rgba(0, 0, 0, 1);
+    color: #fca311;
 }
 
 #circle1 {
-    border: 1.5px solid rgb(78, 95, 116);
+    border: 1.5px solid #ffffff;
     border-radius: 100%;
     padding: 2px;
     margin-top: 1.5vh;
@@ -120,7 +120,7 @@ a:active{
 }
 
 #circle3 {
-    border: 1.5px solid rgb(78, 95, 116);
+    border: 1.5px solid #ffffff;
     border-radius: 100%;
     padding: 2px;
     transform: translate(0vw,-0.5vh);
@@ -135,7 +135,7 @@ a:active{
 }
 
 #circle5 {
-    border: 1.5px solid rgb(78, 95, 116);
+    border: 1.5px solid #ffffff;
     border-radius: 100%;
     padding: 2px;
 }
@@ -148,7 +148,7 @@ a:active{
 }
 
 #circle7 {
-    border: 1.5px solid rgb(78, 95, 116);
+    border: 1.5px solid #ffffff;
     border-radius: 100%;
     padding: 2px;
     transform: translate(0vw,-0.3vh);
@@ -203,7 +203,7 @@ a:active{
 }
 
 .hobbyhead {
-    color: rgba(0, 0, 0, 1);
+    color: #fca311;
     font-family: Poly;
     font-weight: Regular;
     font-size: 25px;
@@ -212,7 +212,7 @@ a:active{
 }
 
 .hobbydesc {
-    color: rgba(0, 0, 0, 1);
+    color: #ffffff;
     font-family: Poly;
     font-weight: Regular;
     font-size: 16px;
@@ -229,7 +229,7 @@ a:active{
     margin: 2vh;
     /* margin-left: 1vw; */
     /* border: 2px solid rgb(173, 108, 119); */
-    color: rgba(0, 0, 0, 1);
+    color: #fca311;
 }
 
 #mid3 {
@@ -243,8 +243,8 @@ a:active{
 }
 
 #boxcontainer2 {
-    border-bottom: 3px solid rgb(31, 31, 31);
-    border-top: 3px solid rgb(31, 31, 31);
+    border-bottom: 3px solid #ffffff;
+    border-top: 3px solid #ffffff;
     /* border-right: none; */
     /* border-radius: 5%; */
     width: 38vw;
@@ -283,7 +283,7 @@ a:active{
 }
 
 #line1{
-    background-color: black;
+    background-color:#ffffff;
     width: 0.1vw;
     height: 26vh;
     transform: translate(0vw,-1vh) rotate(90deg);
@@ -299,12 +299,12 @@ a:active{
     font-size: 25px;
     background-color: transparent;
     border-radius: 10px;
-    border-color:rgb(33, 80, 133) ;
+    border-color:#fca311 ;
     /* transform: translate(0vw,-1vh); */
 }
 
 #dubai:hover{
-    background-color:rgb(210, 220, 240) ;
+    background-color:#fca311 ;
 }
 
 #row2{
@@ -333,7 +333,7 @@ a:active{
 }
 
 #line2{
-    background-color: black;
+    background-color: #ffffff;
     width: 0.1vw;
     height: 26vh;
     transform: translate(-1vw,-6vh) rotate(90deg);
@@ -343,18 +343,18 @@ a:active{
     box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
     height: 6vh;
     width: 10vw;
-    color: rgba(0,0,0,1);
+    color: #ffffff;
     font-family: Poly;
     font-weight: Regular;
     font-size: 25px;
     background-color: transparent;
     border-radius: 10px;
-    border-color:rgb(33, 80, 133) ;
+    border-color:#fca311 ;
     transform: translate(-2vw,-6vh);
 }
 
 #newyork:hover{
-    background-color:rgb(210, 220, 240) ;
+    background-color:#fca311 ;
 }
 
 #row3{
@@ -384,7 +384,7 @@ a:active{
 }
 
 #line3{
-    background-color: black;
+    background-color: #ffffff;
     width: 0.1vw;
     height: 19.8vh;
     transform: translate(-0.5vw,-1vh) rotate(90deg);
@@ -394,18 +394,18 @@ a:active{
     box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
     height: 6vh;
     width: 10vw;
-    color: rgba(0,0,0,1);
+    color: #ffffff;
     font-family: Poly;
     font-weight: Regular;
     font-size: 25px;
     background-color: transparent;
     border-radius: 10px;
-    border-color:rgb(33, 80, 133) ;
+    border-color:#fca311 ;
     transform: translate(-1vw,-1vh);
 }
 
 #jaisalmer:hover{
-    background-color:rgb(210, 220, 240) ;
+    background-color:#fca311 ;
 }
 
 #row4{
@@ -437,7 +437,7 @@ a:active{
 }
 
 #line4{
-    background-color: black;
+    background-color: #ffffff;
     width: 0.1vw;
     height: 26vh;
     transform: translate(0vw,-1vh) rotate(90deg);
@@ -447,18 +447,18 @@ a:active{
     box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
     height: 6vh;
     width: 8vw;
-    color: rgba(0,0,0,1);
+    color: #ffffff;
     font-family: Poly;
     font-weight: Regular;
     font-size: 25px;
     background-color: transparent;
     border-radius: 10px;
-    border-color:rgb(33, 80, 133) ;
+    border-color:#fca311 ;
     transform: translate(0vw,-1vh);
 }
 
 #delhi:hover{
-    background-color:rgb(210, 220, 240) ;
+    background-color:#fca311 ;
 }
 
 #bottom {
@@ -479,6 +479,7 @@ a:active{
     justify-content: space-around;
     display: flex;
     flex-direction: column;
+    filter: invert();
 }
 
 .phone {
@@ -525,6 +526,7 @@ a:active{
     /* border: 2px solid red; */
     display: flex;
     justify-content: space-around;
+    filter: invert();
 }
 
 .links {
@@ -540,11 +542,11 @@ a:active{
     
     a{
         text-decoration: none;
-        color: rgba(63, 114, 175, 1);
+        /* color: rgba(63, 114, 175, 1); */
     }
     
     .items a:hover {
-        color: rgba(17, 45, 78, 1);
+        /* color: rgba(17, 45, 78, 1); */
     }
     
     a:visited{
@@ -557,13 +559,13 @@ a:active{
     
     #dubai a{
         text-decoration: none;
-        color: rgba(0,0,0,1);
+        /* color: rgba(0,0,0,1); */
     }
     
     #container {
         width: 100vw;
         height: 119vh;
-        background: rgba(215, 229, 255, 1);
+        /* background: rgba(215, 229, 255, 1); */
     }
     
     #top {
@@ -581,13 +583,13 @@ a:active{
         font-size: 60px;
         width: 22vw;
         /* padding: 15vw,0vh; */
-        color: rgba(63, 114, 175, 1);
+        /* color: rgba(63, 114, 175, 1); */
         /* border: 2px solid red; */
     }
     
     
     .items:hover {
-        color: rgba(17, 45, 78, 1);
+        /* color: rgba(17, 45, 78, 1); */
     }
     #mid{
         /* border: 2px solid rgb(255, 204, 0); */
@@ -640,11 +642,11 @@ a:active{
         width: 60vw;
         /* margin-left: 1vw; */
         /* border: 2px solid rgb(173, 108, 119); */
-        color: rgba(0, 0, 0, 1);
+        /* color: rgba(0, 0, 0, 1); */
     }
     
     #circle1 {
-        border: 1.5px solid rgb(78, 95, 116);
+        /* border: 1.5px solid rgb(78, 95, 116); */
         border-radius: 100%;
         padding: 10px;
         margin-top: 1.5vh;
@@ -654,11 +656,11 @@ a:active{
         width: 4vw;
         height: 2vh;
         border-radius: 100%;
-        background-color: rgb(255, 149, 0);
+        /* background-color: rgb(255, 149, 0); */
     }
     
     #circle3 {
-        border: 1.5px solid rgb(78, 95, 116);
+        /* border: 1.5px solid rgb(78, 95, 116); */
         border-radius: 100%;
         padding: 10px;
         transform: translate(0vw,0.7vh);
@@ -669,11 +671,11 @@ a:active{
         width: 4vw;
         height: 2vh;
         border-radius: 100%;
-        background-color: rgba(225,241,130,1);
+        /* background-color: rgba(225,241,130,1); */
     }
     
     #circle5 {
-        border: 1.5px solid rgb(78, 95, 116);
+        /* border: 1.5px solid rgb(78, 95, 116); */
         border-radius: 100%;
         padding: 10px;
         transform: translate(0vw,1.6vh);
@@ -683,11 +685,11 @@ a:active{
         width: 4vw;
         height: 2vh;
         border-radius: 100%;
-        background-color: rgb(65, 100, 140);
+        /* background-color: rgb(65, 100, 140); */
     }
     
     #circle7 {
-        border: 1.5px solid rgb(78, 95, 116);
+        /* border: 1.5px solid rgb(78, 95, 116); */
         border-radius: 100%;
         padding: 10px;
         transform: translate(0vw,0.7vh);
@@ -697,7 +699,7 @@ a:active{
         width: 4vw;
         height: 2vh;
         border-radius: 100%;
-        background-color: rgb(78, 91, 105);
+        /* background-color: rgb(78, 91, 105); */
     }
     
     #bluecircle1{
@@ -745,7 +747,7 @@ a:active{
     }
     
     .hobbyhead {
-        color: rgba(0, 0, 0, 1);
+        /* color: rgba(0, 0, 0, 1); */
         font-family: Poly;
         font-weight: Regular;
         font-size: 50px;
@@ -754,7 +756,7 @@ a:active{
     }
     
     .hobbydesc {
-        color: rgba(0, 0, 0, 1);
+        /* color: rgba(0, 0, 0, 1); */
         font-family: Poly;
         font-weight: Regular;
         font-size: 25px;
@@ -771,7 +773,7 @@ a:active{
         margin: 2vh;
         /* margin-left: 1vw; */
         /* border: 2px solid rgb(173, 108, 119); */
-        color: rgba(0, 0, 0, 1);
+        /* color: rgba(0, 0, 0, 1); */
     }
     
     #mid3 {
@@ -785,8 +787,8 @@ a:active{
     }
     
     #boxcontainer2 {
-        border-bottom: 3px solid rgb(31, 31, 31);
-        border-top: 3px solid rgb(31, 31, 31);
+        /* border-bottom: 3px solid rgb(31, 31, 31); */
+        /* border-top: 3px solid rgb(31, 31, 31); */
         /* border-right: none; */
         /* border-radius: 5%; */
         width: 80vw;
@@ -815,7 +817,7 @@ a:active{
         border-radius: 8%;
         height: 25vh;
         transform: translate(0vw,1vh);
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
     }
     
     #img1{
@@ -825,23 +827,24 @@ a:active{
     }
     
     #line1{
-        background-color: black;
+        /* background-color: black; */
+        background-color: #ffffff;
         width: 0.1vw;
         height: 7.5vh;
         transform: translate(0vw,0vh) rotate(90deg);
     }
     
     #dubai{
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
         height: 6vh;
         width: 20vw;
-        color: rgba(0,0,0,1);
+        /* color: rgba(0,0,0,1); */
         font-family: Poly;
         font-weight: Regular;
         font-size: 45px;
         background-color: transparent;
         border-radius: 10px;
-        border-color:rgb(33, 80, 133) ;
+        /* border-color:rgb(33, 80, 133) ; */
         /* transform: translate(0vw,-1vh); */
     }
     
@@ -861,7 +864,7 @@ a:active{
         width: 30vw;
         border-radius: 8%;
         height: 35vh;
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
         /* transform: translate(-22vw,0vh); */
     }
     
@@ -872,28 +875,29 @@ a:active{
     }
     
     #line2{
-        background-color: black;
+        /* background-color: black; */
+        background-color: #ffffff;
         width: 0.1vw;
         height: 11.5vh;
         transform: translate(-1vw,-3vh) rotate(90deg);
     }
     
     #newyork{
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
         height: 6vh;
         width: 22vw;
-        color: rgba(0,0,0,1);
+        /* color: rgba(0,0,0,1); */
         font-family: Poly;
         font-weight: Regular;
         font-size: 45px;
         background-color: transparent;
         border-radius: 10px;
-        border-color:rgb(33, 80, 133) ;
+        /* border-color:rgb(33, 80, 133) ; */
         transform: translate(-2vw,-3vh);
     }
     
     #newyork:hover{
-        background-color:rgb(210, 220, 240) ;
+        /* background-color:rgb(210, 220, 240) ; */
     }
     
     #row3{
@@ -913,7 +917,7 @@ a:active{
         border-radius: 8%;
         height: 35vh;
         transform: translate(0vw,-6vh);
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
     }
     
     #img3{
@@ -923,23 +927,24 @@ a:active{
     }
     
     #line3{
-        background-color: black;
+        /* background-color: black; */
+        background-color: #ffffff;
         width: 0.1vw;
         height: 8.5vh;
         transform: translate(-0.5vw,-1vh) rotate(90deg);
     }
     
     #jaisalmer{
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
         height: 6vh;
         width: 22vw;
-        color: rgba(0,0,0,1);
+        /* color: rgba(0,0,0,1); */
         font-family: Poly;
         font-weight: Regular;
         font-size: 45px;
         background-color: transparent;
         border-radius: 10px;
-        border-color:rgb(33, 80, 133) ;
+        /* border-color:rgb(33, 80, 133) ; */
         transform: translate(-1vw,-1vh);
     }
     
@@ -962,7 +967,7 @@ a:active{
         border-radius: 8%;
         height: 35vh;
         transform: translate(-1vw,-2vh);
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
     }
     
     #img4{
@@ -972,28 +977,29 @@ a:active{
     }
     
     #line4{
-        background-color: black;
+        /* background-color: black; */
+        background-color: #ffffff;
         width: 0.1vw;
         height: 11vh;
         transform: translate(0vw,-5vh) rotate(90deg);
     }
     
     #delhi{
-        box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858);
+        /* box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.5600000023841858); */
         height: 6vh;
         width: 20vw;
-        color: rgba(0,0,0,1);
+        /* color: rgba(0,0,0,1); */
         font-family: Poly;
         font-weight: Regular;
         font-size: 45px;
         background-color: transparent;
         border-radius: 10px;
-        border-color:rgb(33, 80, 133) ;
+        /* border-color:rgb(33, 80, 133) ; */
         transform: translate(0vw,-5vh);
     }
     
     #delhi:hover{
-        background-color:rgb(210, 220, 240) ;
+        /* background-color:rgb(210, 220, 240) ; */
     }
     
     #bottom {
@@ -1053,7 +1059,7 @@ a:active{
         font-family: Poly;
         font-weight: Regular;
         font-size: 30px;
-        color: rgba(0, 0, 0, 1);
+        /* color: rgba(0, 0, 0, 1); */
     }
     
     .contactcontainer2 {

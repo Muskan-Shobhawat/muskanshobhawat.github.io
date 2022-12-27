@@ -20,7 +20,7 @@ function myfunction(p) {
         let num=1;
         while(num<=str){
             let a=document.createElement('div');
-            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:#ffffff;";
             bluecircle1.appendChild(a);
             num++;
         }
@@ -28,7 +28,7 @@ function myfunction(p) {
         let num2=1;
         while(num2<=str2){
             let a=document.createElement('div');
-            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:#ffffff;";
             bluecircle2.appendChild(a);
             num2++;
         }
@@ -36,7 +36,7 @@ function myfunction(p) {
         let num3=1;
         while(num3<=str3){
             let a=document.createElement('div');
-            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:#ffffff;";
             bluecircle3.appendChild(a);
             num3++;
         }
@@ -45,7 +45,7 @@ function myfunction(p) {
         let num4=1;
         while(num4<=str4){
             let a=document.createElement('div');
-            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+            a.style="height:0.9vh; width:1.5vw; border-radius:100%; background:#ffffff;";
             bluecircle4.appendChild(a);
             num4++;
         }
@@ -54,7 +54,7 @@ else{
     let num=1;
     while(num<=str){
         let a=document.createElement('div');
-        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:#ffffff;";
         bluecircle1.appendChild(a);
         num++;
     }
@@ -62,7 +62,7 @@ else{
     let num2=1;
     while(num2<=str2){
         let a=document.createElement('div');
-        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:#ffffff;";
         bluecircle2.appendChild(a);
         num2++;
     }
@@ -70,7 +70,7 @@ else{
     let num3=1;
     while(num3<=str3){
         let a=document.createElement('div');
-        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:#ffffff;";
         bluecircle3.appendChild(a);
         num3++;
     }
@@ -79,7 +79,7 @@ else{
     let num4=1;
     while(num4<=str4){
         let a=document.createElement('div');
-        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:rgba(17,45,78,1)";
+        a.style="height:0.9vh; width:0.5vw; border-radius:100%; background:#ffffff;";
         bluecircle4.appendChild(a);
         num4++;
     }   
